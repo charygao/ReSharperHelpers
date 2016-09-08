@@ -344,6 +344,7 @@
       <DependentUpon>ReSharperHelpersOptionsPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Settings\ReSharperHelpersOptionsPageViewModel.cs" />
+    <Compile Include="TypePostfixTemplates\EnumerableCompletionProvider.cs" />
     <Compile Include="ZoneMarker.cs" />
   </ItemGroup>
   <ItemGroup>
